@@ -1,7 +1,7 @@
 # Binance-Bot-EN
 Binance BUY-SELL Bot EN
 
-Binance BUY-SAT Bot EN Hello, I have prepared a Binance BUY-SELL Bot made with Python for you.
+Binance BUY-SELL Bot EN Hello, I have prepared a Binance BUY-SELL Bot made with Python for you.
 
 Making money with this bot depends on the success of the strategy used. Factors such as the correct strategy,
 setting the appropriate parameters, quick response to changes in the market, and risk management can help you achieve a successful result.
