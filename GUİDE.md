@@ -10,7 +10,7 @@ manage risks when trading with any trading bot. I do not accept any responsibili
 When using this bot, you hope that you will use it for your personal interests. Any loss of money is not my responsibility.
 
 Usage 
-1- Enter your Binance API Key and Binance API Secret in the api-keys.json file. 
+1- Enter your Binance API Key and Binance API Secret in the api_keys.json file. 
 2- In the Coin section, write the coin representation you want to trade.
 3- You can set your price with buy_price to buy coins at the price you want from the Binancebot.py file. 
 4- To sell, enter the price you want to sell with sell_price. 
