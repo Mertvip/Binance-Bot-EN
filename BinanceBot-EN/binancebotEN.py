@@ -53,4 +53,5 @@ while True:
             )
             print(f'Sold {quantity} {coin} at {sell_price}')
     
-    # a certain time
+    # To BUY-SELL within a certain time
+    time.sleep(40)
